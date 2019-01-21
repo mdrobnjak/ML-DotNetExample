@@ -1,0 +1,11 @@
+C:\src\Applications\MLExample\MLExample\bin\Debug\netcoreapp2.0\MLExample.deps.json
+C:\src\Applications\MLExample\MLExample\bin\Debug\netcoreapp2.0\MLExample.runtimeconfig.json
+C:\src\Applications\MLExample\MLExample\bin\Debug\netcoreapp2.0\MLExample.runtimeconfig.dev.json
+C:\src\Applications\MLExample\MLExample\bin\Debug\netcoreapp2.0\MLExample.dll
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.csprojAssemblyReference.cache
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.csproj.CoreCompileInputs.cache
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.AssemblyInfoInputs.cache
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.AssemblyInfo.cs
+C:\src\Applications\MLExample\MLExample\bin\Debug\netcoreapp2.0\MLExample.pdb
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.dll
+C:\src\Applications\MLExample\MLExample\obj\Debug\netcoreapp2.0\MLExample.pdb
