@@ -2844,10 +2844,11 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.3.0": {
-      "sha512": "oadVHGSMsTmZsAF864QYN1t1QzZjIcuKU3l2S9cZOwDdDueNTrqq1yRj7koFfIGEnKpt6NjpL3rOzRhs4ryOgA==",
+      "sha512": "rVivBylr0ISQegifkgJvo4mLdk651qB8lBS1UKg6xgRW8yo0Enwpu5OpYz+we6n9go97QaMdzl/wGafPGrKUNQ==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4135,11 +4136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\Applications\\MLExample\\MLExample\\MLExample.csproj",
+      "projectUniqueName": "D:\\src\\GitHub\\MLExample\\MLExample.csproj",
       "projectName": "MLExample",
-      "projectPath": "C:\\src\\Applications\\MLExample\\MLExample\\MLExample.csproj",
+      "projectPath": "D:\\src\\GitHub\\MLExample\\MLExample.csproj",
       "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\Applications\\MLExample\\MLExample\\obj\\",
+      "outputPath": "D:\\src\\GitHub\\MLExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
